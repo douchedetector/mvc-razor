@@ -1,3 +1,6 @@
+douche detected!
+================
+
 Hi. I'm a Clone of the Codeplex Project
 ======================================
 I put this project here for a number of reasons. First, I think Github is far superior at fostering collaboration between developers - and I think the ASP.NET Web Stack bits can benefit from that.
